@@ -1,0 +1,19 @@
+# 1. Ignore the massive project data
+2019-Oct.csv
+
+# 2. Ignore ALL practice data and scratchpads
+practice_data.csv
+practice_data1.csv
+sales_data_practice.csv
+psp.ipynb
+goal.txt
+
+# 3. Ignore the Virtual Environment (CRITICAL)
+.venv/
+
+# 4. Ignore Jupyter's hidden system files
+.ipynb_checkpoints/
+
+# 5. Ignore Spark/Python temp files
+__pycache__/
+*.log
